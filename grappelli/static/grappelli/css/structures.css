@@ -483,6 +483,7 @@ fieldset.module .row .column.span-flexible:last-child {
     float: none;
     width: auto;
     margin-right: 0 !important;
+    display:inline-block;
 }
 
 
